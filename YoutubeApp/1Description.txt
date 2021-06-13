@@ -1,0 +1,1 @@
+﻿Youtube bot exposing the functionalities of Youtube, including search, play, stop of videos, etc..

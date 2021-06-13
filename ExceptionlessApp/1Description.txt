@@ -1,0 +1,3 @@
+﻿Control your 'Exceptionless' projects on www.exceptionless.com
+
+Log errors, messages, feature usage, etc, through your easybots' solutions.

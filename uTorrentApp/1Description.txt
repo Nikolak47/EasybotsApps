@@ -1,0 +1,2 @@
+﻿Bots that control uTorrent and uTorrent files.
+Start download of a torrent remotelly, or get notified when a download is finished, etc..

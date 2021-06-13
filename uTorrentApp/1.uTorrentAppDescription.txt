@@ -1,0 +1,2 @@
+﻿An Easybots App for manipulating with torrents using uTorrent Client. 
+Use this app to easly download, pause, stop, delete, get notification when downloading of torrent is finished and many more.
